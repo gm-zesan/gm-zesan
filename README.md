@@ -5,8 +5,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/gm-zesan) 
 
-### About Me
-|:------------:|
+### <u>About Me</u>
 <p style="text-align-justify">
 I am a passionate full-stack developer who is comfortable with javascript technologies (React JS, Express JS). across the whole stack. I have experience building a web application with a backend API system.
 </p>
