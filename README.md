@@ -32,10 +32,9 @@ I am a passionate full-stack developer who is comfortable with javascript techno
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&theme=highcontrast&show_icons=true)  
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&theme=highcontrast&show_icons=true)  
+
 
 <br>
 
