@@ -4,6 +4,8 @@
 <hr>
 
 ![Profile views](https://gpvc.arturio.dev/gm-zesan) 
+![Code Time](http://img.shields.io/badge/Code%20Time-688%20hrs%2010%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 ### About Me
 <p style="text-align-justify">
