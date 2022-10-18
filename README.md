@@ -6,6 +6,7 @@
 ![Profile views](https://gpvc.arturio.dev/gm-zesan) 
 
 ### About Me
+|:------------:|
 <p style="text-align-justify">
 I am a passionate full-stack developer who is comfortable with javascript technologies (React JS, Express JS). across the whole stack. I have experience building a web application with a backend API system.
 </p>
@@ -31,9 +32,9 @@ I am a passionate full-stack developer who is comfortable with javascript techno
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+<br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&hide=prs,issues&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&hide=prs&show_icons=true)  
 
 
 <br>
