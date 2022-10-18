@@ -33,13 +33,7 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&hide=prs&show_icons=true) 
-
-<br>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernamecount_private=true&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=username&show_icons=true&locale=en&layout=compact" align = "center"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&hide=prs&card_width=450px&show_icons=true)
 
 
 <br>
