@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Zesan
 <hr>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gm-zesan)  
+![Profile views](https://gpvc.arturio.dev/gm-zesan) 
 
 ###### About Me
 <p style="text-align-justify">
