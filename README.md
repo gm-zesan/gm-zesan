@@ -3,8 +3,8 @@
 ### Hi, I'm Zesan 👋
 <hr>
 
-![Profile views](https://gpvc.arturio.dev/gm-zesan) 
-![Code Time](http://img.shields.io/badge/Code%20Time-688%20hrs%2010%20mins-blue)
+![Profile views](https://gpvc.arturio.dev/gm-zesan) <br>
+![Code Time](http://img.shields.io/badge/Code%20Time-688%20hrs%2010%20mins-blue)<br>
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 ### About Me
@@ -33,6 +33,7 @@ I am a passionate full-stack developer who is comfortable with javascript techno
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 <br>
