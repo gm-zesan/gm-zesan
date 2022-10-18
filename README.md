@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&theme=highcontrast&show_icons=true)
+
 ![Web-Developer](https://i.pinimg.com/736x/4c/44/39/4c443992f6106654fc270b3ca708d29e.jpg)
 ### Hi there 👋, I'm Zesan
 #### Web-Developer
@@ -19,7 +19,7 @@ Skills: MONGO_DB / EXPRESS_JS / REACT_JS / NODE_ JS / HTML / CSS / BOOTSTRAP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&theme=highcontrast&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gm-zesan)  
 
