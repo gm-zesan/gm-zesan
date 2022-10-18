@@ -1,9 +1,7 @@
 
-![Web-Developer](https://i.ibb.co/nkbJntS/ex.png)
-#### Hi there 👋, I'm Zesan
+![web-developer](https://i.ibb.co/vJGkPXQ/Untitled-design.png)
+### Hi there 👋, I'm Zesan
 <hr>
-###### Web-Developer
-
 ![Profile views](https://gpvc.arturio.dev/gm-zesan) 
 
 ###### About Me
@@ -18,11 +16,11 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 
 
 ###### Skills
-✔ HTML / CSS / BOOTSTRAP
-✔ REACT_JS 
-✔ NODE_ JS
-✔ EXPRESS_JS 
-✔ MONGO_DB
+✅ HTML / CSS / BOOTSTRAP <br>
+✅ REACT_JS <br>
+✅ NODE_ JS <br>
+✅ EXPRESS_JS <br>
+✅ MONGO_DB <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
