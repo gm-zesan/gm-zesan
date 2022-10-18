@@ -3,9 +3,7 @@
 ### Hi, I'm Zesan 👋
 <hr>
 
-![Profile views](https://gpvc.arturio.dev/gm-zesan) <br>
-![Code Time](http://img.shields.io/badge/Code%20Time-688%20hrs%2010%20mins-blue)<br>
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Profile views](https://gpvc.arturio.dev/gm-zesan)
 
 ### About Me
 <p style="text-align-justify">
@@ -41,6 +39,8 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan&card_width=360px&langs_count=6&layout=compact)](https://github.com/GM-Zesan) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&hide=prs&card_width=430px&show_icons=true)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gm-zesan?cardType=level-alternate)](https://github.com/GM-Zesan)
 
 <br>
 <hr>
