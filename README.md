@@ -40,8 +40,6 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan&card_width=360px&langs_count=6&layout=compact)](https://github.com/GM-Zesan) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&hide=prs&card_width=430px&show_icons=true)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gm-zesan?cardType=level-alternate)](https://github.com/GM-Zesan)
-
 <br>
 <hr>
 <br>
