@@ -21,7 +21,7 @@ Skills: MONGO_DB / EXPRESS_JS / REACT_JS / NODE_ JS / HTML / CSS / BOOTSTRAP
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&theme=highcontrast&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gm-zesan)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gm-zesan&theme=highcontrast)  
 
 ![GitHub metrics](https://metrics.lecoq.io/gm-zesan)  
 
