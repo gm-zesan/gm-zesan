@@ -1,6 +1,6 @@
 
 ![web-developer](https://i.ibb.co/vJGkPXQ/Untitled-design.png)
-### Hi there 👋, I'm Zesan
+### Hi, I'm Zesan 👋
 <hr>
 
 ![Profile views](https://gpvc.arturio.dev/gm-zesan) 
@@ -37,7 +37,7 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 <hr>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan&card_width=470px&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&hide=prs&card_width=470px&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan&card_width=400px&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&hide=prs&card_width=470px&show_icons=true)
 
 <br>
 <hr>
