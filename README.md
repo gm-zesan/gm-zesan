@@ -1,6 +1,7 @@
+![Web-Developer](https://i.pinimg.com/736x/4c/44/39/4c443992f6106654fc270b3ca708d29e.jpg)
 ### Hi there 👋, I'm Zesan
 #### Web-Developer
-![Web-Developer](https://i.pinimg.com/736x/4c/44/39/4c443992f6106654fc270b3ca708d29e.jpg)
+
 
 I am a passionate full-stack developer who is comfortable with javascript technologies (React JS, Express JS). across the whole stack. I have experience building a web application with a backend API system.
 
