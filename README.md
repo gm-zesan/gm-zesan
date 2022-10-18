@@ -37,7 +37,7 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 <hr>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan&card_width=355px&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&hide=prs&card_width=425px&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-zesan&card_width=360px&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-zesan&hide=prs&card_width=430px&show_icons=true)
 
 <br>
 <hr>
