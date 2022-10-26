@@ -1,6 +1,5 @@
 
-
-<img src="https://i.ibb.co/vJGkPXQ/Untitled-design.png" align="left" height="150" width="auto" />  
+![web-developer](https://i.ibb.co/vJGkPXQ/Untitled-design.png)
 
 ### Hi, I'm Zesan 👋
 <hr>
