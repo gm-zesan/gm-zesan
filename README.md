@@ -1,5 +1,7 @@
 
-![web-developer](https://i.ibb.co/vJGkPXQ/Untitled-design.png)
+
+<img src="https://i.ibb.co/vJGkPXQ/Untitled-design.png" align="left" height="150" width="600" />  
+
 ### Hi, I'm Zesan 👋
 <hr>
 
