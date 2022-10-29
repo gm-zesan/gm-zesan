@@ -43,8 +43,7 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 <hr>
 <br>
 
-<h3 align="center" style="margin-bottom:15px;"> ☕ Connect with me!</h3>
-<div align="center" style="margin-bottom:50px;">
+<div align="center">
  <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -59,7 +58,7 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 </a>
 
 </div>  
-
+<br>
 
 
  
