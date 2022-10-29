@@ -6,7 +6,8 @@
   <img src="https://gpvc.arturio.dev/gm-zesan" />
 </p>
 <hr>
-### 🚀 About Me
+
+<h3> 🚀 About Me</h3>
 <p style="text-align-justify">
 I am a passionate full-stack developer who is comfortable with javascript technologies (React JS, Express JS). across the whole stack. I have experience building a web application with a backend API system.
 </p>
