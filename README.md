@@ -49,7 +49,7 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook/>
 </a>
 <a href="https://instagram.com/mister_zesan" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%E34F26.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/>
+<img src=https://img.shields.io/badge/instagram-E34F26.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/>
 </a>
 <a href="https://linkedin.com/in/gm-zesan-5a2a16184" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
