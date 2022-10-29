@@ -31,7 +31,7 @@ I am a passionate full-stack developer who is comfortable with javascript techno
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-C1BEBC?style=for-the-badge&logo=mongodb&logoColor=589636" />
+  <img src="https://img.shields.io/badge/MongoDB-71473F?style=for-the-badge&logo=mongodb&logoColor=589636" />
 </p>
 <br>
 <hr>
@@ -44,9 +44,12 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 <br>
 
 ### ☕ Connect with me!
-<div align="left" style="margin-bottom:30px;">
+<div align="center" style="margin-bottom:30px;">
+ <div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <a href="https://www.facebook.com/Zesan.xyz" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook/>
+<img src=https://img.shields.io/badge/facebook-4267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook/>
 </a>
 <a href="https://instagram.com/mister_zesan" target="_blank">
 <img src=https://img.shields.io/badge/instagram-E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram" />
