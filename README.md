@@ -1,11 +1,11 @@
 
 ![web-developer](https://i.ibb.co/vJGkPXQ/Untitled-design.png)
 
-### Hi, I'm Zesan 👋
-<hr>
-
+<h3 align="center"> Hi, I'm Zesan 👋</h3>
+<p align="center">
 ![Profile views](https://gpvc.arturio.dev/gm-zesan)
-
+</p>
+<hr>
 ### 🚀 About Me
 <p style="text-align-justify">
 I am a passionate full-stack developer who is comfortable with javascript technologies (React JS, Express JS). across the whole stack. I have experience building a web application with a backend API system.
@@ -43,7 +43,7 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 <hr>
 <br>
 
-### ☕ Connect with me!
+<h3 align="center"> ☕ Connect with me!</h3>
 <div align="center" style="margin-bottom:30px;">
  <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -51,15 +51,13 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 <a href="https://www.facebook.com/Zesan.xyz" target="_blank">
 <img src=https://img.shields.io/badge/facebook-4267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook/>
 </a>
-<a href="https://instagram.com/mister_zesan" target="_blank">
-<img src=https://img.shields.io/badge/instagram-E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram" />
-</a>
-<a href="https://linkedin.com/in/gm-zesan-5a2a16184" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
-</a>
 <a href="https://github.com/gm-zesan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github/>
 </a>  
+<a href="https://linkedin.com/in/gm-zesan-5a2a16184" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+</a>
+
 </div>  
 
 
