@@ -44,12 +44,12 @@ I am a passionate full-stack developer who is comfortable with javascript techno
 <br>
 
 ### ☕ Connect with me!
-<div align="center">
+<div align="left" style="margin-bottom:10px;">
 <a href="https://www.facebook.com/Zesan.xyz" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook/>
 </a>
 <a href="https://instagram.com/mister_zesan" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/>
 </a>
 <a href="https://linkedin.com/in/gm-zesan-5a2a16184" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
