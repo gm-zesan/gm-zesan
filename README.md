@@ -4,6 +4,7 @@
 <h3 align="center"> Hi, I'm Zesan 👋</h3>
 <p align="center">
 ![Profile views](https://gpvc.arturio.dev/gm-zesan)
+  <img src="https://gpvc.arturio.dev/gm-zesan" />
 </p>
 <hr>
 ### 🚀 About Me
