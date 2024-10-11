@@ -3,7 +3,7 @@
 
 <h3 align="center"> Hi, I'm Zesan 👋</h3>
 <p align="center">
-  <img src="https://gpvc.arturio.dev/gm-zesan" />
+  <img src="https://ibb.co.com/SJ1p0Dr" />
 </p>
 <hr>
 
