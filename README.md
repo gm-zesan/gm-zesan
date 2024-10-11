@@ -3,7 +3,7 @@
 
 <h3 align="center"> Hi, I'm Zesan 👋</h3>
 <p align="center">
-  <img src="https://ibb.co.com/SJ1p0Dr" />
+  <img src="[https://ibb.co.com/SJ1p0Dr](https://i.ibb.co.com/9Gfj2mt/IMG-20240217-203910.jpg)" />
 </p>
 <hr>
 
