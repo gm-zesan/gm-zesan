@@ -1,5 +1,5 @@
 
-![web-developer](https://i.ibb.co/vJGkPXQ/Untitled-design.png)
+![web-developer]
 
 <h3 align="center"> Hi, I'm Zesan 👋</h3>
 <p align="center">
@@ -9,17 +9,20 @@
 
 <h3> 🚀 About Me</h3>
 <p style="text-align-justify">
-I am a passionate full-stack developer who is comfortable with javascript technologies (React JS, Express JS). across the whole stack. I have experience building a web application with a backend API system.
+I am a passionate full-stack developer who is comfortable with javascript technologies (PHP, Laravel, React JS, Express JS). across the whole stack. I have experience building a web application with a backend API system.
 </p>
 
-- 🔭 I’m currently working on Full Stack website(MERN) 
+- 🔭 I’m currently working on Full Stack website(PHP, Laravel and MERN) 
 - 🌱 I’m currently learning Backend (focused) 
 - 👯 I’m looking to collaborate on web-development 
-- 💬 Ask me about MERN
+- 💬 Ask me about Web Development
 <hr>
 
 ### 👨🏽‍💻 Skills
 ✅ HTML / CSS / Bootstrap <br>
+✅ PHP (OOP) <br>
+✅ Laravel <br>
+✅ MySql <br>
 ✅ React-JS <br>
 ✅ Node-JS <br>
 ✅ Express_JS <br>
@@ -33,6 +36,8 @@ I am a passionate full-stack developer who is comfortable with javascript techno
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-71473F?style=for-the-badge&logo=mongodb&logoColor=589636" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 <br>
 <hr>
